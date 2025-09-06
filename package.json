@@ -1,0 +1,13 @@
+{
+  "name": "verdure-restaurant",
+  "version": "1.0.0",
+  "description": "Modern seasonal restaurant website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - serve index.html'"
+  },
+  "keywords": ["restaurant", "website", "static", "html"],
+  "author": "Verdure Restaurant",
+  "license": "MIT"
+}
